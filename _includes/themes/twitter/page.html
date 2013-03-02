@@ -1,5 +1,27 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+<div class="clearfix">
+  <ul class="nav nav-pills pull-right">
+    <li class="active">
+      <a href="#">Home</a>
+    </li>
+    <li><a href="#">Desks</a></li>
+    <li><a href="#">Meeting Rooms</a></li>
+    <li><a href="#">Events</a></li>
+    <li><a href="#">People</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Bookings</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+  {% if page.image %}<div class="home-background">{% endif %}
+    {% if page.whitelogo %}
+    <a href="/"><img src="/assets/logo_white.png"></a>
+    {% else %}
+    <a href="/"><img src="/assets/logo.png"></a>
+    {% endif %}
+      
+    <h2>{{ page.title }}</h2>
+  {% if page.image %}</div>{% endif %}
+  {% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
+  {% if page.cta %} <a href="{{ page.ctalink }}" class="btn btn-large btn-success pull-right">{{ page.cta }}</a>{% endif %}
 </div>
 
 <div class="row-fluid">
