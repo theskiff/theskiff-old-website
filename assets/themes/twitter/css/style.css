@@ -24,6 +24,10 @@ h1, h2, h3, h4{
     font-weight: normal;
     font-style: normal;
 	}
+	
+.top-nav{
+	margin-top:10px;
+}
 
 .home-background{
 
@@ -32,6 +36,7 @@ h1, h2, h3, h4{
 	width: 1026px;
 	height: 361px;
 	margin: 0px auto;
+	margin-bottom: 10px;
 }
 .home-background h2{
 	margin-top: 50px;

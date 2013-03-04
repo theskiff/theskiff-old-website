@@ -11,23 +11,23 @@ whitelogo: true
 <div class="row">
   <div class="span3">
     <h3>Get stuff done</h3>
-    <p>It's amazing how much more productive you can be when you're surrounded by other smart people from a range of discipline who are working hard.</p>
-    <a href="/try" class="btn pull-right">Try it for a day</a>
+    <p>It's amazing how much more productive you can be when you're surrounded by other smart, hard working people from a range of disciplines.</p>
+    <!-- <a href="/try" class="btn pull-right">Try it for a day</a> -->
   </div>
   <div class="span3">
     <h3>Host meetings</h3>
     <p>Just 5 minutes walk from Brighton station, The Skiff's light airy meeting rooms are the perfect place to invite your clients from near and far.</p>
-    <a href="/tour" class="btn pull-right">Book a tour</a>
+    <!-- <a href="/tour" class="btn pull-right">Book a tour</a> -->
   </div>
   <div class="span3">
     <h3>Attend free events</h3>
     <p>You can learn loads from your peers at The Skiff. Hone your writing, design, marketing and coding skills at lunch-time, evening and weekend events.</p>
-    <a href="/notify" class="btn pull-right">Get notified</a>
+    <!-- <a href="/notify" class="btn pull-right">Get notified</a> -->
   </div>
   <div class="span3">
     <h3>Spot opportunities</h3>
     <p>When you spend time with a diverse community of coworkers serendipity gets accelerated, boosting your business in ways you couldn't imagine.</p>
-    <a href="/join" class="btn pull-right">Join the community</a>
+    <!-- <a href="/join" class="btn pull-right">Join the community</a> -->
         
   </div>
 </div>
