@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    {% if page.pagetitle %}
+    <title>{{ page.pagetitle }}</title>
+    {% else %}
+    <title>{{ page.title }} - The Skiff coworking and meeting spaces in Brighton</title>
+    {% endif %}
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 

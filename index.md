@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Surround yourself with smart people you love working with
+pagetitle: The Skiff coworking and meeting spaces in Brighton
+description: Coworking, desks, meeting rooms, events and workshop spaces for a community of freelancers, mobile workers and small companies in the middle of Brighton.
 tagline: As a member of The Skiff you'll join a community of over 130 freelancers, remote workers and micro businesses who have found a better place to work than their homes.
 cta: Start coworking in Brighton today
 ctalink: /join
