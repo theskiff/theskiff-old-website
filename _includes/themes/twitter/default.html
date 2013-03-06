@@ -53,63 +53,61 @@
 
     <div class="container">
 
-      <div class="content">
-        {{ content }}
-      </div>
+    {{ content }}
 
-<div class="row">
-  <div class="span2">
-    <h4>Contact Us</h4>
-    <div id="" class="vcard">
-      <div class="org">The Skiff</div>
-      <div class="adr">
-        <div class="street-address">6 Gloucester Street</div>
-        <span class="locality">Brighton</span>
-        <span class="postal-code">BN1 4EW</span><br />
-        <span class="country-name">United Kingdom</span>
-      </div>
-      <a class="email" href="mailto:hello@theskiff.org">hello@theskiff.org</a>
-    </div>
-    <p><strong>Open 10am to 6pm Monday to Friday</strong></p>
+      <div class="row">
+        <div class="span2">
+          <h4>Contact Us</h4>
+          <div id="" class="vcard">
+            <div class="org">The Skiff</div>
+            <div class="adr">
+              <div class="street-address">6 Gloucester Street</div>
+              <span class="locality">Brighton</span>
+              <span class="postal-code">BN1 4EW</span><br />
+              <span class="country-name">United Kingdom</span>
+            </div>
+            <a class="email" href="mailto:hello@theskiff.org">hello@theskiff.org</a>
+          </div>
+          <p><strong>Open 10am to 6pm Monday to Friday</strong></p>
     
-  </div>
+        </div>
 
-      <iframe class="span6" width="360" height="342" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=215008758879610793054.0004ab9ae21f441228ddd&amp;ie=UTF8&amp;vpsrc=6&amp;ll=50.827816,-0.138574&amp;spn=0.005422,0.015407&amp;z=15&amp;output=embed"></iframe>
+            <iframe class="span6" width="360" height="342" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=215008758879610793054.0004ab9ae21f441228ddd&amp;ie=UTF8&amp;vpsrc=6&amp;ll=50.827816,-0.138574&amp;spn=0.005422,0.015407&amp;z=15&amp;output=embed"></iframe>
 
-  <div class="span4">
-    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script>
-    new TWTR.Widget({
-    version: 2,
-    type: 'profile',
-    rpp: 3,
-    interval: 30000,
-    width: 'auto',
-    height: 250,
-    theme: {
-    shell: {
-    background: '#eeeeee',
-    color: '#fd0094'
-    },
-    tweets: {
-    background: '#ffffff',
-    color: '#333333',
-    links: '#fd0094'
-    }
-    },
-    features: {
-    scrollbar: false,
-    loop: false,
-    live: true,
-    hashtags: true,
-    timestamp: true,
-    avatars: false,
-    behavior: 'all'
-    }
-    }).render().setUser('theskiff').start();
-    </script>
-  </div>
-</div>
+        <div class="span4">
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+          <script>
+          new TWTR.Widget({
+          version: 2,
+          type: 'profile',
+          rpp: 3,
+          interval: 30000,
+          width: 'auto',
+          height: 250,
+          theme: {
+          shell: {
+          background: '#eeeeee',
+          color: '#fd0094'
+          },
+          tweets: {
+          background: '#ffffff',
+          color: '#333333',
+          links: '#fd0094'
+          }
+          },
+          features: {
+          scrollbar: false,
+          loop: false,
+          live: true,
+          hashtags: true,
+          timestamp: true,
+          avatars: false,
+          behavior: 'all'
+          }
+          }).render().setUser('theskiff').start();
+          </script>
+        </div>
+      </div>
       <hr>
       <footer>
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} a joint venture between <a href="http://wiredsussex.com">Wired Sussex</a> and <a href="http://inuda.org">Inuda Community</a> to support Brighton's creative economy. <a href="https://goodcoworking.com/locations/the-skiff#coworkers">Who ♥'s Coworking at The Skiff?</a>
