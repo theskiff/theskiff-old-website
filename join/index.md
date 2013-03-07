@@ -333,7 +333,7 @@ tagline:
                       <strong>You want dedicated use of a meeting room for up to 3 months</strong>
                     </li>
                     <li>
-                      <strong>2 hours per month</strong> inclusive use of small meeting room (or 1 hour in large)
+                      <strong>1 week</strong> full-time use of small meeting room
                     </li>
                     <li>
                       <strong>24x7 access</strong>
