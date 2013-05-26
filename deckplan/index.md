@@ -25,7 +25,7 @@ tagline:
         <strong>01</strong> Full-time (Taken)
       </li>
       <li>
-        <strong>02</strong> coworking
+        <strong>02</strong> Coworking
       </li>
       <li>
         <strong>03</strong> Full-time (Taken)
@@ -56,37 +56,37 @@ tagline:
     </h4>
     <ul>
       <li>
-        <strong>10</strong> coworking
+        <strong>10</strong> Coworking
       </li>
       <li>
-        <strong>11</strong> coworking
+        <strong>11</strong> Coworking
       </li>
       <li>
-        <strong>12</strong> coworking
+        <strong>12</strong> Coworking
       </li>
       <li>
-        <strong>13</strong> coworking
+        <strong>13</strong> Coworking
       </li>
       <li>
-        <strong>14</strong> coworking
+        <strong>14</strong> Coworking
       </li>
       <li>
-        <strong>15</strong> coworking
+        <strong>15</strong> Coworking
       </li>
       <li>
-        <strong>16</strong> coworking
+        <strong>16</strong> Coworking
       </li>
       <li>
-        <strong>17</strong> coworking
+        <strong>17</strong> Coworking
       </li>
       <li>
-        <strong>18</strong> coworking
+        <strong>18</strong> Coworking
       </li>
       <li>
-        <strong>19</strong> coworking
+        <strong>19</strong> Coworking
       </li>
       <li>
-        <strong>20</strong> coworking
+        <strong>20</strong> Coworking
       </li>
     </ul>
   </div>
@@ -96,28 +96,28 @@ tagline:
     </h4>
     <ul>
       <li>
-        <strong>21</strong> coworking
+        <strong>21</strong> Coworking
       </li>
       <li>
-        <strong>22</strong> coworking
+        <strong>22</strong> Coworking
       </li>
       <li>
-        <strong>23</strong> coworking
+        <strong>23</strong> Coworking
       </li>
       <li>
-        <strong>24</strong> coworking
+        <strong>24</strong> Coworking
       </li>
       <li>
-        <strong>25</strong> coworking
+        <strong>25</strong> Coworking
       </li>
       <li>
-        <strong>26</strong> coworking
+        <strong>26</strong> Coworking
       </li>
       <li>
-        <strong>27</strong> coworking
+        <strong>27</strong> Coworking
       </li>
       <li>
-        <strong>28</strong> coworking
+        <strong>28</strong> Coworking
       </li>
       <li>
         <strong>29</strong> Full-time (Taken)
@@ -136,10 +136,10 @@ tagline:
     </h4>
     <ul>
       <li>
-        <strong>32</strong> coworking / Full-time
+        <strong>32</strong> Coworking / Full-time
       </li>
       <li>
-        <strong>33</strong> coworking / Full-time
+        <strong>33</strong> Coworking / Full-time
       </li>
       <li>
         <strong>34</strong> Full-time (Taken)
@@ -148,19 +148,19 @@ tagline:
         <strong>35</strong> Full-time (Available)
       </li>
       <li>
-        <strong>36</strong> coworking
+        <strong>36</strong> Coworking
       </li>
       <li>
-        <strong>37</strong> coworking
+        <strong>37</strong> Coworking
       </li>
       <li>
-        <strong>38</strong> coworking / Full-time
+        <strong>38</strong> Coworking / Full-time
       </li>
       <li>
-        <strong>39</strong> coworking / Full-time
+        <strong>39</strong> Coworking / Full-time
       </li>
       <li>
-        <strong>40</strong> coworking
+        <strong>40</strong> Coworking
       </li>
       <li>
         <strong>41</strong> Full-time (Taken)
@@ -169,13 +169,13 @@ tagline:
         <strong>42</strong> Full-time (Taken)
       </li>
       <li>
-        <strong>43</strong> coworking / Full-time
+        <strong>43</strong> Coworking / Full-time
       </li>
       <li>
-        <strong>44</strong> coworking
+        <strong>44</strong> Coworking
       </li>
       <li>
-        <strong>45</strong> coworking
+        <strong>45</strong> Coworking
       </li>
     </ul>
   </div>
