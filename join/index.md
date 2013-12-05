@@ -305,7 +305,7 @@ tagline:
                       <strong>You want The Skiff to be your primary meeting place</strong>
                     </li>
                     <li>
-                      <strong>24 hours per month</strong> inclusive use of small meeting room (or 6 hours in large)
+                      <strong>24 hours per month</strong> inclusive use of small meeting room (or 12 hours in large)
                     </li>
                     <li>
                       <strong>24x7 access</strong> subject to availability
