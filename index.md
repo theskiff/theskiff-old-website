@@ -71,10 +71,3 @@ whitelogo: true
     </blockquote>
   </div>
 </div>
-<script type="text/javascript">
-  (function() {
-    var adam = document.createElement("script"); adam.type = "text/javascript"; adam.async = true;
-    adam.src = "https://d1bag2311971el.cloudfront.net/client-js/aa-6.js";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(adam, s);
-  })();
-</script>
