@@ -21,8 +21,26 @@
     <h2>{{ page.title }}</h2>
     {% endif %}
   {% if page.image %}</div>{% endif %}
-  {% if page.tagline %} <p class="lead">{{ page.tagline }}</p>{% endif %}
-  {% if page.cta %} <a href="{{ page.ctalink }}" class="btn btn-large btn-success pull-right">{{ page.cta }}</a>{% endif %}
+  {% if page.tagline %} <p class="lead pagination-centered">{{ page.tagline }}</p>{% endif %}
+  <div class="row">
+      {% if page.cta %}
+        <div class="span2 offset5">
+          <a href="{{ page.ctalink }}" class="btn btn-large btn-success btn-block">{{ page.cta }}</a>
+        </div>
+      {% endif %}
+      {% if page.cta2 %}
+        <div class="span2">
+          <a href="{{ page.ctalink2 }}" class="btn btn-large btn-block">{{ page.cta2 }}</a>
+        </div>
+      {% endif %}
+      {% if page.cta3 %}
+        <div class="span2">
+          <p class="lead pagination-centered">
+            <a href="{{ page.ctalink3 }}" class="">{{ page.cta3 }}</a>
+          </p>
+        </div>
+      {% endif %}
+  </div>
 </div>
 
 {% if page.image %}

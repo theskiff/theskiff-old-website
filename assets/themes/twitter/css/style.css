@@ -1,3 +1,8 @@
+
+blockquote{
+  margin-top: 20px;
+}
+
 h1, h2, h3, h4{
 	font-family: "ArvoRegular", serif;
 	color: #fd0092;

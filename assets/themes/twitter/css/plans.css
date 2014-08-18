@@ -202,7 +202,13 @@ background-color: #6594c8;
     width: 25%;
 }
 
+.benefits i{
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+  font-size: 100px;
 
+}
 
 
 

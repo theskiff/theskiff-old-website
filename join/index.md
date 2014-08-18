@@ -10,44 +10,67 @@ tagline:
       <!-- Only required for left/right tabs -->
       <ul class="nav nav-tabs">
         <li class="active">
-          <a href="#tab1" data-toggle="tab">Part-time</a>
+          <a href="#tab1" data-toggle="tab">Regular Membership from £49/month</a>
         </li>
         <li>
-          <a href="#tab2" data-toggle="tab">Full-time</a>
+          <a href="#tab2" data-toggle="tab">Community Membership from £4/month</a>
         </li>
         <li>
-          <a href="#tab3" data-toggle="tab">Meetings only</a>
+          <a href="#tab3" data-toggle="tab">Meeting Rooms from £7.50/hour</a>
         </li>
       </ul>
       <div class="tab-content">
         <div class="tab-pane active" id="tab1">
+          <h2>Pays for itself in one distraction-free day.</h2>
           <div class="pricing-plans plans-4">
             <!-- /plan-container -->
-            <div class="plan-container best-value">
+            <div class="plan-container">
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Not Yet Mate
+                    Master Mate
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £19 <span class="term">&nbsp;</span>
+                    <span class="note">&nbsp;</span> £299 <span class="term">per month + VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want to try the space without becoming a member</strong>
+                      <strong>Your own dedicated <strike>boat</strike> desk</strong>
                     </li>
                     <li>
-                      <strong>Day Pass</strong> one off use of coworking desk space
+                      Invitations to participate in <strong>all</strong> online and <strong>all</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <strong>7 days</strong> per week at your desk<br />
                     </li>
                     <li>
-                      <strong>Upgrade</strong> to join the community and get members rates
+                      <strong>24x7</strong> keyfob access.
+                    </li>
+                    <li>
+                      <strong>2 hours per week</strong> inclusive meeting room use.<br />
+                    </li>
+                    <li>
+                      <strong>50% off</strong> extra bookings
+                    </li>
+                    <li>
+                       Coaching to help you reach <br />
+                       <strong>£10K per month revenue</strong>
+                    </li>
+                    <li>
+                      Bike parking
+                    </li>
+                    <li>
+                      Postal address
+                    </li>
+                    <li>
+                      Secure storage space
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/3291963/subscriptions/new">Buy</a>
+                  <a class="btn btn-disabled" href="mailto:hello@theskiff.org">Join waiting list</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div><!-- /plan-container -->
@@ -55,27 +78,99 @@ tagline:
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Able Mate
+                    Chief Mate
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £49 <span class="term">per month</span>
+                    <span class="note">&nbsp;</span> £199 <span class="term">per month + VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want to become a member and use the space weekly</strong>
+                      <strong>Use the space whenever you like</strong>
                     </li>
                     <li>
-                      <strong>1 day per week</strong> inclusive use of coworking desk space
+                      Invitations to participate in <strong>all</strong> online and <strong>all</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <strong>5 days</strong> per week coworking<br />
                     </li>
                     <li>
-                      <strong>Upgrade</strong> for more inclusive coworking days
+                      <strong>24x7</strong> keyfob access.
+                    </li>
+                    <li>
+                      <strong>2 hours per week</strong> inclusive meeting room use.<br />
+                    </li>
+                    <li>
+                      <strong>50% off</strong> extra bookings
+                    </li>
+                    <li>
+                       Coaching to help you reach <br />
+                       <strong>£8K per month revenue</strong>
+                    </li>
+                    <li>
+                      Bike parking
+                    </li>
+                    <li>
+                      Postal address
+                    </li>
+                    <li>
+                      Secure storage space
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/3291934/subscriptions/new">Subscribe</a>
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
+                </div><!-- /plan-actions -->
+              </div><!-- /plan -->
+            </div><!-- /plan-container -->
+            <div class="plan-container  best-value">
+              <div class="plan">
+                <div class="plan-header">
+                  <div class="plan-title">
+                    2nd Mate
+                  </div><!-- /plan-title -->
+                  <div class="plan-price">
+                    <span class="note">&nbsp;</span> £99 <span class="term">per month + VAT</span>
+                  </div><!-- /plan-price -->
+                </div><!-- /plan-header -->
+                <div class="plan-features">
+                  <ul>
+                    <li>
+                      <strong>Use the space half the week</strong>
+                    </li>
+                    <li>
+                      Invitations to participate in <strong>all</strong> online and <strong>all</strong> offline community activities.
+                    </li>
+                    <li>
+                      <strong>2.5 days</strong> per week coworking<br />
+                    </li>
+                    <li>
+                      <strong>10am to 6pm</strong> keyfob access.
+                    </li>
+                    <li>
+                      <strong>2 hours per month</strong> inclusive meeting room use.<br />
+                    </li>
+                    <li>
+                      <strong>50% off</strong> extra bookings
+                    </li>
+                    <li>
+                       Coaching to help you reach<br />
+                       <strong>£6K per month revenue</strong>
+                    </li>
+                    <li>
+                      Bike parking
+                    </li>
+                    <li>
+                      Postal address
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                  </ul>
+                </div><!-- /plan-features -->
+                <div class="plan-actions">
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div>
@@ -83,180 +178,279 @@ tagline:
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Duo Mate
+                    3rd Mate
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £89 <span class="term">per month</span>
+                    <span class="note">&nbsp;</span> £49 <span class="term">per month + VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want to become a member and use the space twice a week</strong>
+                      <strong>Use the space one day a week</strong>
                     </li>
                     <li>
-                      <strong>2 days per week</strong> inclusive use of coworking desk space
+                      Invitations to participate in <strong>all</strong> online and <strong>all</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <strong>1 day</strong> per week coworking<br />
                     </li>
                     <li>
-                      <strong>Upgrade</strong> for more inclusive coworking days
+                      <strong>10am to 6pm</strong> keyfob access.
+                    </li>
+                    <li>
+                      <strong>1 hour per month</strong> inclusive meeting room use.<br />
+                    </li>
+                    <li>
+                      <strong>50% off</strong> extra bookings
+                    </li>
+                    <li>
+                       Coaching to help you reach <br />
+                       <strong>£4K per month revenue</strong>
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/3292564/subscriptions/new">Subscribe</a>
-                </div><!-- /plan-actions -->
-              </div><!-- /plan -->
-            </div>
-            <div class="plan-container">
-              <div class="plan">
-                <div class="plan-header">
-                  <div class="plan-title">
-                    Leading Mate
-                  </div><!-- /plan-title -->
-                  <div class="plan-price">
-                    <span class="note">&nbsp;</span> £119 <span class="term">per month</span>
-                  </div><!-- /plan-price -->
-                </div><!-- /plan-header -->
-                <div class="plan-features">
-                  <ul>
-                    <li>
-                      <strong>You want to become a member and use the space regularly</strong>
-                    </li>
-                    <li>
-                      <strong>3 days per week</strong> inclusive use of coworking desk space
-                    </li>
-                    <li>
-                      <strong>Upgrade</strong> for 24x7 access, use of address and storage space*.
-                    </li>
-                  </ul>
-                </div><!-- /plan-features -->
-                <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/3292086/subscriptions/new">Subscribe</a>
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div>
           </div>
-          <p>
-            Want to join but use the space just once in a while? <a href="https://theskiff.chargify.com/h/3288278/subscriptions/new">Become a Basic Mate, £19/month for 1 day inclusive coworking per month</a>.
-          </p>
+<!--           <p>
+            Want to join but use the space just once in a while? <a href="#tab2" data-toggle="tab">Community memberships from £4+VAT per month</a>.
+          </p> -->
         </div>
         <div class="tab-pane" id="tab2">
+          <h2>Pays for itself in one new connection made.</h2>
+          <div class="pricing-plans plans-4">
+            <!-- /plan-container -->
+            <div class="plan-container">
+              <div class="plan">
+                <div class="plan-header">
+                  <div class="plan-title">
+                    Team Mate
+                  </div><!-- /plan-title -->
+                  <div class="plan-price">
+                    <span class="note">&nbsp;</span> £30 <span class="term">per month + VAT</span>
+                  </div><!-- /plan-price -->
+                </div><!-- /plan-header -->
+                <div class="plan-features">
+                  <ul>
+                    <li>
+                      <strong>Get the professional benefits of membership for your team.</strong>
+                    </li>
+                    <li>
+                      Invitations <strong>for two</strong> to participate in<br />
+                      <strong>all</strong> online and<br />
+                      <strong>all</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <strong>Events and booked</strong> keyfob access
+                    </li>
+                    <li>
+                      <strong>50% off</strong> meeting and coworking bookings
+                    </li>               
+                    <li>
+                      <strong>£40 booking credit</strong> per month for meeting rooms and coworking<br />
+                    </li>
+                     <li>
+                       Coaching to help you reach<br /> <strong>£4K per month revenue</strong>
+                    </li>
+                    <li>
+                      <strong>£5</strong> per month extra keyfobs and activity access for your team
+                    </li>
+                  </ul>
+                </div><!-- /plan-features -->
+                <div class="plan-actions">
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
+                </div><!-- /plan-actions -->
+              </div><!-- /plan -->
+            </div>
+            <div class="plan-container best-value">
+              <div class="plan">
+                <div class="plan-header">
+                  <div class="plan-title">
+                    Professional Mate
+                  </div><!-- /plan-title -->
+                  <div class="plan-price">
+                    <span class="note">&nbsp;</span> £15 <span class="term">per month + VAT</span>
+                  </div><!-- /plan-price -->
+                </div><!-- /plan-header -->
+                <div class="plan-features">
+                  <ul>
+                    <li>
+                      <strong>Get the professional benefits of membership.</strong>
+                    </li>
+                    <li>
+                      Invitations for you to participate in<br />
+                      <strong>all</strong> online and<br />
+                      <strong>all</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <strong>Events and booked</strong> keyfob access
+                    </li>
+                    <li>
+                      <strong>50% off</strong> meeting and coworking bookings
+                    </li>               
+                    <li>
+                      <strong>£20 booking credit</strong> per month for meeting rooms and coworking<br />
+                    </li>
+                    <li>
+                       Coaching to help you reach<br /> <strong>£2K per month revenue</strong></li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                  </ul>
+                </div><!-- /plan-features -->
+                <div class="plan-actions">
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
+                </div><!-- /plan-actions -->
+              </div><!-- /plan -->
+            </div>
+            <div class="plan-container">
+              <div class="plan">
+                <div class="plan-header">
+                  <div class="plan-title">
+                    Social Mate
+                  </div><!-- /plan-title -->
+                  <div class="plan-price">
+                    <span class="note">&nbsp;</span> £8 <span class="term">per month + VAT</span>
+                  </div><!-- /plan-price -->
+                </div><!-- /plan-header -->
+                <div class="plan-features">
+                  <ul>
+                    <li>
+                      <strong>Get the social benefits of membership</strong>
+                    </li>
+                    <li>
+                      Invitations for you to participate in<br />
+                      <strong>all</strong> online and<br />
+                      <strong>some</strong> offline community activities.
+                    </li> 
+                    <li>
+                      <strong>Events and booked</strong> keyfob access
+                    </li>
+                    <li>
+                      <strong>50% off</strong> meeting and coworking bookings
+                    </li>                 
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                  </ul>
+                </div><!-- /plan-features -->
+                <div class="plan-actions">
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
+                </div><!-- /plan-actions -->
+              </div><!-- /plan -->
+            </div>
+            <div class="plan-container">
+              <div class="plan">
+                <div class="plan-header">
+                  <div class="plan-title">
+                    Space Cadet
+                  </div><!-- /plan-title -->
+                  <div class="plan-price">
+                    <span class="note">&nbsp;</span> £4 <span class="term">per month + VAT</span>
+                  </div><!-- /plan-price -->
+                </div><!-- /plan-header -->
+                <div class="plan-features">
+                  <ul>
+                     <li>
+                      <strong>Dip your toes in the water of coworking</strong>
+                    </li>
+                    <li>
+                      Invitations for you to participate in<br />
+                      <strong>some</strong> online and<br />
+                      <strong>annual</strong> offline community activities.
+                    </li>                    
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                      <br />
+                    </li>
+                  </ul>
+                </div><!-- /plan-features -->
+                <div class="plan-actions">
+                  <a class="btn btn-success" href="mailto:hello@theskiff.org">Subscribe</a>
+                </div><!-- /plan-actions -->
+              </div><!-- /plan -->
+            </div>
+          </div>
+<!--           <p>
+            Want to use the space more often? <a href="#tab1" data-toggle="tab">Regular memberships from £49+VAT per month</a>.
+          </p>
+ -->        </div>
+        <div class="tab-pane" id="tab3">
+          <h2>Pays for itself in one productive client meeting.</h2>
           <div class="pricing-plans plans-3">
             <!-- /plan-container -->
             <div class="plan-container">
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Full Mate
+                    The Bridge
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £199 <span class="term">per month</span>
+                    <span class="note">&nbsp;</span> £90 <span class="term">(£45 for Mates) + VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want to use the space any time</strong>
+                      <strong>Ideal for workshops and training sessions</strong>
                     </li>
                     <li>
-                      <strong>24x7 access</strong> as much coworking as you like at shared desks
+                      <strong>4 hours</strong> available 10am to 2pm and 2pm to 6pm weekdays
                     </li>
                     <li>
-                      <strong>Upgrade</strong> for your own desk
+                      <strong>6 to 12</strong> people
+                    </li>
+                    <li>
+                      <strong>Natural light</strong>
+                    </li>
+                    <li>
+                      <strong>Roof terrace</strong>
+                    </li>
+                    <li>
+                      <strong>Tea &amp; coffee</strong> available for order
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="mailto:hello@theskiff.org">ASK</a>
-                </div><!-- /plan-actions -->
-              </div><!-- /plan -->
-            </div>
-            <div class="plan-container">
-              <div class="plan">
-                <div class="plan-header">
-                  <div class="plan-title">
-                    Full Mate + Small Desk
-                  </div><!-- /plan-title -->
-                  <div class="plan-price">
-                    <span class="note">&nbsp;</span> £249 <span class="term">per month</span>
-                  </div><!-- /plan-price -->
-                </div><!-- /plan-header -->
-                <div class="plan-features">
-                  <ul>
-                    <li>
-                      <strong>You want to use the space any time and have your own dedicated desk</strong>
-                    </li>
-                    <li>
-                      <strong>24x7 access</strong> use your desk when you wish
-                    </li>
-                    <li>
-                      <strong>Upgrade</strong> for a bigger desk
-                    </li>
-                  </ul>
-                </div><!-- /plan-features -->
-                <div class="plan-actions">
-                  <a class="btn btn-success" href="mailto:hello@theskiff.org">ASK</a>
-                </div><!-- /plan-actions -->
-              </div><!-- /plan -->
-            </div>
-            <div class="plan-container">
-              <div class="plan">
-                <div class="plan-header">
-                  <div class="plan-title">
-                    Full Mate + Large Desk
-                  </div><!-- /plan-title -->
-                  <div class="plan-price">
-                    <span class="note">&nbsp;</span> £299 <span class="term">per month</span>
-                  </div><!-- /plan-price -->
-                </div><!-- /plan-header -->
-                <div class="plan-features">
-                  <ul>
-                    <li>
-                      <strong>You want to use the space any time and have your own large dedicated desk</strong>
-                    </li>
-                    <li>
-                      <strong>24x7 access</strong> use your large desk when you wish
-                    </li>
-                    <li>
-                      <strong>Upgrade</strong> for inclusive meeting room hours
-                    </li>
-                  </ul>
-                </div><!-- /plan-features -->
-                <div class="plan-actions">
-                  <a class="btn btn-success" href="mailto:hello@theskiff.org">ASK</a>
-                </div><!-- /plan-actions -->
-              </div><!-- /plan -->
-            </div>
-          </div>
-        </div>
-        <div class="tab-pane" id="tab3">
-          <div class="pricing-plans plans-4">
-            <!-- /plan-container -->
-            <div class="plan-container">
-              <div class="plan">
-                <div class="plan-header">
-                  <div class="plan-title">
-                    Meeting Mate
-                  </div><!-- /plan-title -->
-                  <div class="plan-price">
-                    <span class="note">&nbsp;</span> £25 <span class="term">per month</span>
-                  </div><!-- /plan-price -->
-                </div><!-- /plan-header -->
-                <div class="plan-features">
-                  <ul>
-                    <li>
-                      <strong>You want to be able to use the meeting rooms.</strong>
-                    </li>
-                    <li>
-                      <strong>2 hours per month</strong> inclusive use of a small meeting room (or 1 hour in large)
-                    </li>
-                    <li>
-                      <strong>Access 10am to 6pm</strong> Monday to Friday
-                    </li>
-                  </ul>
-                </div><!-- /plan-features -->
-                <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/73825/subscriptions/new">Subscribe</a>
+                  <a class="btn btn-success" href="/bookings">Book</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div><!-- /plan-container -->
@@ -265,27 +459,36 @@ tagline:
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Regular Meeting Mate
+                    The Cabin
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £85 <span class="term">per month</span>
+                    <span class="note">&nbsp;</span> £30 <span class="term">(£15 for Mates) +VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want to use the meeting rooms regularly.</strong>
+                      <strong>Perfect for project and board meetings</strong>
                     </li>
                     <li>
-                      <strong>12 hours per month</strong> inclusive use of a small meeting room (or 6 hours in large)
+                      <strong>2 hours</strong> available 10am to 6pm <br />weekdays
                     </li>
                     <li>
-                      <strong>Access 10am to 6pm</strong> Monday to Friday
+                      <strong>4 to 6</strong> people
+                    </li>
+                    <li>
+                      <strong>Natural light</strong>
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="https://theskiff.chargify.com/h/49164/subscriptions/new">Subscribe</a>
+                  <a class="btn btn-success" href="/bookings">Book</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div>
@@ -293,55 +496,36 @@ tagline:
               <div class="plan">
                 <div class="plan-header">
                   <div class="plan-title">
-                    Key Meeting Mate
+                    The Chart Room
                   </div><!-- /plan-title -->
                   <div class="plan-price">
-                    <span class="note">&nbsp;</span> £165 <span class="term">per month</span>
+                    <span class="note">&nbsp;</span> £15 <span class="term">(£7.50 for Mates) + VAT</span>
                   </div><!-- /plan-price -->
                 </div><!-- /plan-header -->
                 <div class="plan-features">
                   <ul>
                     <li>
-                      <strong>You want The Skiff to be your primary meeting place</strong>
+                      <strong>Best for one-to-one meetings and interviews</strong>
                     </li>
                     <li>
-                      <strong>24 hours per month</strong> inclusive use of small meeting room (or 12 hours in large)
+                      <strong>1 hours</strong> available 10am to 6pm <br /> weekdays
                     </li>
                     <li>
-                      <strong>24x7 access</strong> subject to availability
+                      <strong>2 to 4</strong> people
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
+                    </li>
+                    <li>
+                      <br />
                     </li>
                   </ul>
                 </div><!-- /plan-features -->
                 <div class="plan-actions">
-                  <a class="btn btn-success" href="mailto:hello@theskiff.org">ASK</a>
-                </div><!-- /plan-actions -->
-              </div><!-- /plan -->
-            </div>
-            <div class="plan-container">
-              <div class="plan">
-                <div class="plan-header">
-                  <div class="plan-title">
-                    Project Room
-                  </div><!-- /plan-title -->
-                  <div class="plan-price">
-                    <span class="note">&nbsp;</span> £180 <span class="term">per week</span>
-                  </div><!-- /plan-price -->
-                </div><!-- /plan-header -->
-                <div class="plan-features">
-                  <ul>
-                    <li>
-                      <strong>You want dedicated use of a meeting room for up to 3 months</strong>
-                    </li>
-                    <li>
-                      <strong>1 week</strong> full-time use of small meeting room
-                    </li>
-                    <li>
-                      <strong>24x7 access</strong>
-                    </li>
-                  </ul>
-                </div><!-- /plan-features -->
-                <div class="plan-actions">
-                  <a class="btn btn-success" href="mailto:hello@theskiff.org">ASK</a>
+                  <a class="btn btn-success" href="/bookings">Book</a>
                 </div><!-- /plan-actions -->
               </div><!-- /plan -->
             </div>
@@ -353,37 +537,8 @@ tagline:
 </div>
 <div class="row">
   <div class="span12">
-    <h3>
-      Add-ons for Members
-    </h3>
-    <ul>
-      <li>
-        <strong>£15/day</strong> additional coworking during working hours.
-      </li>
-      <li>
-        <strong>£20/month</strong> storage space so you can leave things at The Skiff between visits.*
-      </li>
-      <li>
-        <strong>£20/month</strong> use The Skiff for your postal address for deliveries, stationery and website.*
-      </li>
-      <li>
-        <strong>£40/month</strong> your own key to use your coworking days and meeting room hours when you wish
-      </li>
-      <li>
-        <strong>£20/hour</strong> pay as you go use of large meeting room during working hours
-      </li>
-      <li>
-        <strong>£10/hour</strong> pay as you go use of small meeting room during working hours
-      </li>
-      <li>
-        <strong>£150/day</strong> pay as you go use of large meeting room during working hours
-      </li>
-      <li>
-        <strong>£75/day</strong> pay as you go use of small meeting room during working hours
-      </li>
-    </ul>
     <h4>
-      All prices include VAT.
+      All prices exclude VAT.
     </h4>
     <h4>
       There is no minimum commitment. You can upgrade, downgrade or cancel at any time.
@@ -392,7 +547,7 @@ tagline:
       We do not offer refunds so please make sure you make changes to your account well before your subscription renews.
     </h4>
     <p>
-      * Storage space and postal address are subject to fair use. These add-ons are designed for individual independent workers that might have a monitor, mouse and keyboard they'd like to leave in the space and few deliveries each month. Leave items in the space at your own risk, make sure that all items are labeled and that you have adequate insurance cover. You may not use The Skiff as your company's Registered Address (use your accountant for that).
+      * Storage space and postal address are subject to fair use. They're designed for individual independent workers that might have a monitor, mouse and keyboard they'd like to leave in the space and few deliveries each month. Leave items in the space at your own risk, make sure that all items are labeled and that you have adequate insurance cover. You should not use The Skiff as your company's Registered Address (use your accountant for that).
     </p>
   </div>
 </div>
