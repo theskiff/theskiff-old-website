@@ -344,7 +344,7 @@ tagline:
                       <strong>50% off</strong> meeting and coworking bookings
                     </li>                 
                     <li>
-                      100% of your membership fee will support community events and activities at The Skiff.
+                      <strong>100%</strong> of your membership fee will support community activities.
                     </li>
                     <li>
                       <br />
