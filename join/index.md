@@ -344,8 +344,7 @@ tagline:
                       <strong>50% off</strong> meeting and coworking bookings
                     </li>                 
                     <li>
-                      <br />
-                      <br />
+                      100% of your membership fee will support community events and activities at The Skiff.
                     </li>
                     <li>
                       <br />
@@ -537,6 +536,9 @@ tagline:
 </div>
 <div class="row">
   <div class="span12">
+    <h3>
+      Coworking Day Pass: &pound;24+VAT for non-members (includes 1 month Space Cadet membership), £12.50+VAT extra coworking days for Mates.
+    </h3>
     <h4>
       All prices exclude VAT.
     </h4>
